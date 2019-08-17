@@ -28,3 +28,7 @@ def reduce(source_array, starting_point=nil)
  
    return result
 end 
+
+
+
+p map[1,2,3]
