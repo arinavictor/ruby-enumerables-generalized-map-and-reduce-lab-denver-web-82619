@@ -7,7 +7,7 @@ def map(source_array)
     
     i += 1 
   end 
-new
+return new
 end
 
 
