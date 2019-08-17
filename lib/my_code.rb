@@ -5,7 +5,7 @@ def map(source_array)
   while i < source_array.length 
     new.push(yield(source_array[i])
     
-    i+= 1 
+    i += 1 
   end 
 return new
 end
