@@ -2,7 +2,8 @@
 def map(source_array)
   new = []	 
   i = 0 
-  while i < source_array.length
+  while i < source_array.length 
+    new.push(source_array[i])
 return new
 end
 
